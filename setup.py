@@ -3,8 +3,8 @@ setup(
   name = 'hello_world',         # How you named your package folder (MyLib)
   packages = ['hello_world'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
-  license='MIT',        # Chose a license from here: 
-https://help.github.com/articles/licensing-a-repository  description = 'Trial Pypi library',   # Give a short description about your library
+  license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository  
+  description = 'Trial Pypi library',   # Give a short description about your library
   author = 'Mitika Dodiya',                   # Type in your name
   author_email = 'mitika.dodiya@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Mitika-d/hello_world',   # Provide either the link to your github or to your website
